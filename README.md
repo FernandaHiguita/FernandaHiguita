@@ -103,7 +103,7 @@ I am an aspiring Data Analyst and Data Engineer passionate about transforming da
   <li>
     🎨 <b>Responsive Landing Page</b><br>
     Responsive design using HTML & CSS.<br>
-    <a href="https://github.com/TUUSUARIO/responsive-landing-page">🔗 View Project</a>
+    <a href="https://github.com/FernandaHiguita/motoride-responsive-website">🔗 View Project</a>
   </li>
 
   <li>
