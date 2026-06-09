@@ -91,7 +91,7 @@ I am an aspiring Data Analyst and Data Engineer passionate about transforming da
   <li>
     🔗 <b>REST API with Express & PostgreSQL</b><br>
     CRUD operations, database integration, and API structure.<br>
-    <a href="https://github.com/TUUSUARIO/rest-api-express-postgres">🔗 View Project</a>
+    <a href="https://github.com/FernandaHiguita/inventory-management-api">🔗 View Project</a>
   </li>
 </ul>
 
